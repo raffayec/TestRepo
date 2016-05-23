@@ -1,0 +1,20 @@
+[
+  {
+    "outputFileName": "Content/bootstrap-theme-candE.css",
+    "inputFiles": [
+      "Content/bootstrap-theme-candE.css"
+    ]
+  },
+  {
+    "outputFileName": "Content/bootstrap.css",
+    "inputFiles": [
+      "Content/bootstrap.css"
+    ]
+  },
+  {
+    "outputFileName": "Content/bootstrap-theme.css",
+    "inputFiles": [
+      "Content/bootstrap-theme.css"
+    ]
+  }
+]
