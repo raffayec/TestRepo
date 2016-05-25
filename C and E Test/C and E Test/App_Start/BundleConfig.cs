@@ -24,7 +24,7 @@ namespace C_and_E_Test
                       "~/Scripts/respond.js"));
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
-                      "~/Content/bootstrap-theme.css",
+                      "~/Content/bootstrap-thisone.min.css",
                       "~/Content/site.css"));
         }
     }

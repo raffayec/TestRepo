@@ -16,5 +16,11 @@
     "inputFiles": [
       "Content/bootstrap-theme.css"
     ]
+  },
+  {
+    "outputFileName": "Content/bootstrap-thisone.css",
+    "inputFiles": [
+      "Content/bootstrap-thisone.css"
+    ]
   }
 ]
